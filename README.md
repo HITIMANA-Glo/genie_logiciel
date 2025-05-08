@@ -52,7 +52,7 @@ Bienvenue dans **Gestion des Personnes**, une application de bureau développée
 4. Compile et exécute l’application.
 
 ##  Contributions
-Les contributions sont les bienvenues ! 🛠️
+Les contributions sont les bienvenues ! 
 1. **Fork** le projet.
 2. **Crée** une branche.
 3. **Propose** un **Pull Request**.
